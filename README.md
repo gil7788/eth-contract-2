@@ -64,3 +64,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+### Used Commands
+
+Template Init
+```shell
+$ forge init --template https://github.com/foundry-rs/forge-template hello_template
+```
